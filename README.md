@@ -16,11 +16,11 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Casper-Tech-ke&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=14400" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api?username=Casper-Tech-ke&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casper-Tech-ke&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api/top-langs/?username=Casper-Tech-ke&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 ### 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Casper-Tech-ke&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
+  <img src="https://gh-profile-trophy.vercel.app/?username=Casper-Tech-ke&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
 </p>
 
 ---
