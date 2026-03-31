@@ -16,9 +16,11 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Casper-Tech-ke&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Stats">
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casper-Tech-ke&theme=radical&layout=compact&hide_border=true&cache_seconds=21600" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Casper-Tech-ke&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=14400" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casper-Tech-ke&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -48,9 +50,11 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 ### 🔗 CONNECT WITH ME
 
 [![Website](https://img.shields.io/badge/xcasper.space-6e5cff?style=flat-square&logo=google-chrome&logoColor=white)](https://xcasper.space)
+[![Support](https://img.shields.io/badge/Support%20%2F%20Pay-0ff4c6?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://payments.xcasper.space)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@casper.tech.254)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/casper.tech.254)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/casper_tech_ke)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@casper_techke)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254732982940)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Casper-Tech-ke)
+[![Email](https://img.shields.io/badge/Email-support%40xcasper.space-6e5cff?style=flat-square&logo=gmail&logoColor=white)](mailto:support@xcasper.space)
