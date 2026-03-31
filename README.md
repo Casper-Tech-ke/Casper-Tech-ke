@@ -44,33 +44,25 @@ I'm **Casper** (Casper Tech Kenya) — passionate about AI, chatbots and buildin
 
 ### 🚀 TOP PROJECTS
 
-| # | Repository | ⭐ Stars | 🍴 Forks | Score | Language |
-|---|-----------|---------|---------|-------|----------|
-| 🥇 | [**pairing**](https://github.com/Casper-Tech-ke/pairing) — WhatsApp session generator, open-source & easy to use | 9 | 12 | **21** | HTML |
-| 🥈 | [**CASPER-XD-ULTRA**](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) — WhatsApp bot suite | 4 | 9 | **13** | HTML |
-| 🥉 | [**Casper-Tech-ke**](https://github.com/Casper-Tech-ke/Casper-Tech-ke) — Animated GitHub profile README | 3 | 0 | **3** | — |
-| 4 | [**BASE-WEB-APP2**](https://github.com/Casper-Tech-ke/BASE-WEB-APP2) — Base web application template | 0 | 2 | **2** | JavaScript |
-| 5 | [**InstaBot**](https://github.com/Casper-Tech-ke/InstaBot) — Open-source Instagram automation framework | 0 | 2 | **2** | — |
+| # | Repository | ⭐ Stars | 🍴 Forks | Score |
+|---|-----------|---------|---------|-------|
+| 🥇 | [**pairing**](https://github.com/Casper-Tech-ke/pairing) — WhatsApp session generator, open-source & easy to use | 9 | 12 | **21** |
+| 🥈 | [**CASPER-XD-ULTRA**](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) — WhatsApp bot suite | 4 | 9 | **13** |
+| 🥉 | [**Casper-Tech-ke**](https://github.com/Casper-Tech-ke/Casper-Tech-ke) — Animated GitHub profile README | 3 | 0 | **3** |
+| 4 | [**BASE-WEB-APP2**](https://github.com/Casper-Tech-ke/BASE-WEB-APP2) — Base web application template | 0 | 2 | **2** |
+| 5 | [**InstaBot**](https://github.com/Casper-Tech-ke/InstaBot) — Open-source Instagram automation framework | 0 | 2 | **2** |
 
-> **Score** = ⭐ Stars + 🍴 Forks
+> **Score** = ⭐ Stars + 🍴 Forks &nbsp;·&nbsp; Updated dynamically from GitHub API
 
 <p align="center">
-  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=pairing&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=pairing&theme=radical&hide_border=true" alt="pairing"/>
-  </a>
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=pairing&theme=radical&hide_border=true" alt="pairing"/>
   &nbsp;
-  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=CASPER-XD-ULTRA&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=CASPER-XD-ULTRA&theme=radical&hide_border=true" alt="CASPER-XD-ULTRA"/>
-  </a>
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=CASPER-XD-ULTRA&theme=radical&hide_border=true" alt="CASPER-XD-ULTRA"/>
 </p>
 <p align="center">
-  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=BASE-WEB-APP2&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=BASE-WEB-APP2&theme=radical&hide_border=true" alt="BASE-WEB-APP2"/>
-  </a>
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=BASE-WEB-APP2&theme=radical&hide_border=true" alt="BASE-WEB-APP2"/>
   &nbsp;
-  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=InstaBot&theme=radical&hide_border=true">
-    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=InstaBot&theme=radical&hide_border=true" alt="InstaBot"/>
-  </a>
+  <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=InstaBot&theme=radical&hide_border=true" alt="InstaBot"/>
 </p>
 
 ---
@@ -80,6 +72,21 @@ I'm **Casper** (Casper Tech Kenya) — passionate about AI, chatbots and buildin
 <p align="center">
   <img src="https://gh-profile-trophy.vercel.app/?username=Casper-Tech-ke&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
 </p>
+
+**How trophy ranks are achieved:**
+
+| Trophy | Current Rank | What it measures | How to level up |
+|--------|:-----------:|-----------------|-----------------|
+| 🔥 Commits | **S** | Total commits (1,400+) | Keep committing daily |
+| 🌈 MultiLanguage | **S** | Number of languages used (11+) | Use diverse stacks |
+| 📦 Repositories | **A** | Public repos count (27) | Open more projects |
+| ⭐ Stars | **B** | Stars received (18) | Build popular tools |
+| 👥 Followers | **B** | GitHub followers (18) | Share & network |
+| 🐛 Issues | **C** | Issues opened/closed | Engage in projects |
+| 🔀 Pull Requests | **C** | PRs merged | Contribute upstream |
+| 🎖 Experience | **C** | Account age & activity | Stay active over time |
+
+> Ranks go: **SSS → SS → S → AAA → AA → A → B → C → UNKNOWN** — keep pushing to move up!
 
 ---
 
