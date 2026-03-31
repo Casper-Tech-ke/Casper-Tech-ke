@@ -16,13 +16,13 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Casper-Tech-ke&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Casper-Tech-ke&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Stats">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casper-Tech-ke&theme=radical&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Casper-Tech-ke&theme=radical&layout=compact&hide_border=true&cache_seconds=21600" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Casper-Tech-ke&count_private=true&theme=radical&border_radius=10" alt="Streak Stats">
+  <img width="420" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Casper-Tech-ke&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="Streak Stats">
 </p>
 
 ---
@@ -30,16 +30,12 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 ### 🏆 GITHUB TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Casper-Tech-ke&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Casper-Tech-ke&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies">
 </p>
 
 ---
 
-### 🌍 TOP CONTRIBUTIONS
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Casper-Tech-ke&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions">
-</p>
+### 🌍 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
