@@ -50,7 +50,7 @@ I'm **Casper** (Casper Tech Kenya) — a full-stack developer & DevOps engineer 
 ### 🔗 CONNECT WITH ME
 
 [![Website](https://img.shields.io/badge/xcasper.space-6e5cff?style=flat-square&logo=google-chrome&logoColor=white)](https://xcasper.space)
-[![Support](https://img.shields.io/badge/Support%20%2F%20Pay-0ff4c6?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://payments.xcasper.space)
+[![Sponsor](https://img.shields.io/badge/Support%20%2F%20Pay-0ff4c6?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://payments.xcasper.space)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@casper.tech.254)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/casper.tech.254)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/casper_tech_ke)
