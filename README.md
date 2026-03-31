@@ -42,6 +42,39 @@ I'm **Casper** (Casper Tech Kenya) — passionate about AI, chatbots and buildin
 
 ---
 
+### 🚀 TOP PROJECTS
+
+| # | Repository | ⭐ Stars | 🍴 Forks | Score | Language |
+|---|-----------|---------|---------|-------|----------|
+| 🥇 | [**pairing**](https://github.com/Casper-Tech-ke/pairing) — WhatsApp session generator, open-source & easy to use | 9 | 12 | **21** | HTML |
+| 🥈 | [**CASPER-XD-ULTRA**](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) — WhatsApp bot suite | 4 | 9 | **13** | HTML |
+| 🥉 | [**Casper-Tech-ke**](https://github.com/Casper-Tech-ke/Casper-Tech-ke) — Animated GitHub profile README | 3 | 0 | **3** | — |
+| 4 | [**BASE-WEB-APP2**](https://github.com/Casper-Tech-ke/BASE-WEB-APP2) — Base web application template | 0 | 2 | **2** | JavaScript |
+| 5 | [**InstaBot**](https://github.com/Casper-Tech-ke/InstaBot) — Open-source Instagram automation framework | 0 | 2 | **2** | — |
+
+> **Score** = ⭐ Stars + 🍴 Forks
+
+<p align="center">
+  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=pairing&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=pairing&theme=radical&hide_border=true" alt="pairing"/>
+  </a>
+  &nbsp;
+  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=CASPER-XD-ULTRA&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=CASPER-XD-ULTRA&theme=radical&hide_border=true" alt="CASPER-XD-ULTRA"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=BASE-WEB-APP2&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=BASE-WEB-APP2&theme=radical&hide_border=true" alt="BASE-WEB-APP2"/>
+  </a>
+  &nbsp;
+  <a href="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=InstaBot&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=InstaBot&theme=radical&hide_border=true" alt="InstaBot"/>
+  </a>
+</p>
+
+---
+
 ### 🏆 GITHUB TROPHIES
 
 <p align="center">
