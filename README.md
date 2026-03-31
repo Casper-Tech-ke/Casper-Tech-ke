@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5cff,100:0ff4c6&height=200&section=header&text=Casper%20Tech%20Kenya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20at%20xcasper.space&descAlignY=58&descSize=18&descColor=d0ccff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e5cff,100:0ff4c6&height=200&section=header&text=Casper%20Tech%20Kenya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=We%20believe%20in%20building%20together&descAlignY=58&descSize=18&descColor=d0ccff" alt="header"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E5CFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%9A%80;DevOps+%26+Systems+Engineer+%E2%9A%99%EF%B8%8F;WhatsApp+Bot+Developer+%F0%9F%A4%96;AI+%26+Chatbot+Enthusiast+%F0%9F%A7%A0;Building+xcasper.space+%F0%9F%8C%90;Open-source+for+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E5CFF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%F0%9F%9A%80;DevOps+%26+Systems+Engineer+%E2%9A%99%EF%B8%8F;WhatsApp+Bot+Developer+%F0%9F%A4%96;AI+%26+Chatbot+Enthusiast+%F0%9F%A7%A0;Building+xcasper.space+%F0%9F%8C%90;We+believe+in+building+together+%F0%9F%A4%9D;Open-source+for+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 I'm **Casper** (Casper Tech Kenya) — passionate about AI, chatbots and building developer tools. I love working on WhatsApp bots, AI-driven solutions and open-source tech. Currently building at [xcasper.space](https://xcasper.space) 🇰🇪
+
+> *We believe in building together.*
 
 ---
 
@@ -71,5 +73,5 @@ I'm **Casper** (Casper Tech Kenya) — passionate about AI, chatbots and buildin
 [![Email](https://img.shields.io/badge/Email-support%40xcasper.space-6e5cff?style=flat-square&logo=gmail&logoColor=white)](mailto:support@xcasper.space)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff4c6,100:6e5cff&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff4c6,100:6e5cff&height=120&section=footer&text=We%20believe%20in%20building%20together&fontSize=14&fontColor=d0ccff&fontAlignY=65" alt="footer"/>
 </p>
