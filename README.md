@@ -42,17 +42,6 @@ I'm **Casper** (Casper Tech Kenya) — passionate about AI, chatbots and buildin
 
 ---
 
-### 🚀 TOP PROJECTS
-
-| # | Repository | ⭐ Stars | 🍴 Forks | Score |
-|---|-----------|---------|---------|-------|
-| 🥇 | [**pairing**](https://github.com/Casper-Tech-ke/pairing) — WhatsApp session generator, open-source & easy to use | 9 | 12 | **21** |
-| 🥈 | [**CASPER-XD-ULTRA**](https://github.com/Casper-Tech-ke/CASPER-XD-ULTRA) — WhatsApp bot suite | 4 | 9 | **13** |
-| 🥉 | [**Casper-Tech-ke**](https://github.com/Casper-Tech-ke/Casper-Tech-ke) — Animated GitHub profile README | 3 | 0 | **3** |
-| 4 | [**BASE-WEB-APP2**](https://github.com/Casper-Tech-ke/BASE-WEB-APP2) — Base web application template | 0 | 2 | **2** |
-| 5 | [**InstaBot**](https://github.com/Casper-Tech-ke/InstaBot) — Open-source Instagram automation framework | 0 | 2 | **2** |
-
-> **Score** = ⭐ Stars + 🍴 Forks &nbsp;·&nbsp; Updated dynamically from GitHub API
 
 <p align="center">
   <img src="https://github-readme-stats-eight-navy.vercel.app/api/pin/?username=Casper-Tech-ke&repo=pairing&theme=radical&hide_border=true" alt="pairing"/>
